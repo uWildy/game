@@ -1,0 +1,14 @@
+{
+    "name": "time-manipulation-game",
+    "version": "0.1.0",
+    "description": "Prototype for a time manipulation game",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "http-server . -o"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "http-server": "^14.1.1"
+    }
+}
